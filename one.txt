@@ -1,2 +1,4 @@
 This is firt change
 This is second change
+Trying to merge after a file is added to staging area. 
+This change is made on master branch. Can you see it on subbranch, Y/N ? Y 

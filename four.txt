@@ -1,0 +1,3 @@
+This is file four. 
+Changes made in the sub branch 'fix'.
+Changes made on the master branch. 
